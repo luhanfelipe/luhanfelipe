@@ -2,17 +2,17 @@
 
 🎓 Estudante de Tecnologia em Sistemas para Internet (TSI) no IFPE
 
-💻 Apaixonado por desenvolvimento web e engenharia de software.
+💻 Alto interesse em desenvolvimento web, segurança e engenharia de software.
 
-☕ Atualmente aprendendo Java, Programação Orientada a Objetos e desenvolvimento Full Stack.
+☕ Atualmente aprendendo Desenvolvimento WEB, Pyton, Java, Programação Orientada a Objetos e desenvolvimento Full Stack.
 
 
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de TSI no IFPE
 - 🌐 Interesse em desenvolvimento web
-- ☕ Aprendendo Java e POO
-- 🗄️ Gosto de banco de dados e APIs
+- ☕  Aprendendo Java e POO
+- 🗄️ Interesse em banco de dados e APIs
 - 📚 Sempre desenvolvendo projetos para aprender novas tecnologias
 
 
