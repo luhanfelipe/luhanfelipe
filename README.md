@@ -19,6 +19,22 @@ e descobrindo novas formas de transformar ideias em software.
 
 ---
 
+## 🛠️ Tecnologias & Ferramentas
+
+### 💻 Linguagens
+
+<img src="https://skillicons.dev/icons?i=java,ts,js,python,php,html,css,mysql&perline=7" />
+
+### ⚙️ Frameworks & Bibliotecas
+
+<img src="https://skillicons.dev/icons?i=laravel,nextjs,svelte&perline=3" />
+
+### 🐧 Ambiente & Ferramentas
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode&perline=4" />
+
+---
+
 ## 📚 Atualmente estudando
 
 - ☕ Java e Programação Orientada a Objetos
