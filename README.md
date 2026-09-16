@@ -1,8 +1,10 @@
-# 👨🏻‍💻 Luhan Felipe
+# Luhan Felipe 🧑‍💻
 
 **`Desenvolvedor em Formação`**
 
-Me chamo Luhan Felipe, sou estudante de desenvolvimento de software e gosto de aprender colocando a mão no código. Atualmente, estou explorando desenvolvimento web com Laravel, PHP, Next.js, TypeScript, JavaScript, HTML e CSS, além de trabalhar com MySQL, Git e Linux. Gosto de transformar o que estudo em projetos reais e aprender um pouco mais a cada commit. 🚀
+Me chamo Luhan Felipe, sou estudante de desenvolvimento de software e gosto de aprender colocando a mão no código. 
+Atualmente, estou explorando desenvolvimento web com Laravel, PHP, Next.js, TypeScript, JavaScript, HTML e CSS, além de trabalhar com MySQL, Git e Linux. Gosto de transformar o que estudo em projetos reais e aprender um pouco mais a cada commit.
+
 <p align="left">
     <a href="https://github.com/luhanfelipe?tab=repositories&sort=stargazers">
         <img 
@@ -66,6 +68,14 @@ Me chamo Luhan Felipe, sou estudante de desenvolvimento de software e gosto de a
 />
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -90,6 +100,30 @@ Me chamo Luhan Felipe, sou estudante de desenvolvimento de software e gosto de a
 />
 <img 
     align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Svelte" 
+    title="Svelte"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -103,6 +137,22 @@ Me chamo Luhan Felipe, sou estudante de desenvolvimento de software e gosto de a
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="VS Code" 
+    title="VS Code"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
 />
 
 <br/>
