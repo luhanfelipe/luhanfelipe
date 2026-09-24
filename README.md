@@ -3,7 +3,8 @@
 **`Desenvolvedor em Formação`**
 
 Me chamo Luhan Felipe, sou estudante de desenvolvimento de software e gosto de aprender colocando a mão no código. 
-Atualmente, estou explorando desenvolvimento web com Laravel, PHP, Next.js, TypeScript, JavaScript, HTML e CSS, além de trabalhar com MySQL, Git e Linux. Gosto de transformar o que estudo em projetos reais e aprender um pouco mais a cada commit.
+Atualmente, estou explorando desenvolvimento web e estudando linguagens como PHP, Next.js, TypeScript, JavaScript, HTML e CSS, além de trabalhar com MySQL, Git e Linux. 
+Eu Gosto de transformar o que estudo em projetos reais e aprender um pouco mais a cada commit.
 
 <p align="left">
     <a href="https://github.com/luhanfelipe?tab=repositories&sort=stargazers">
