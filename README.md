@@ -6,23 +6,6 @@ Me chamo Luhan Felipe, sou estudante de desenvolvimento de software e gosto de a
 Atualmente, estou explorando desenvolvimento web e estudando linguagens como PHP, Next.js, TypeScript, JavaScript, HTML e CSS, além de trabalhar com MySQL, Git e Linux. 
 Eu Gosto de transformar o que estudo em projetos reais e aprender um pouco mais a cada commit.
 
-<p align="left">
-    <a href="https://github.com/luhanfelipe?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/luhanfelipe?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/luhanfelipe?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/luhanfelipe?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
